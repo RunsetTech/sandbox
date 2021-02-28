@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo nima > ~/$RANDOM.txt
+echo nima > $RANDOM.txt

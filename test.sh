@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo nima > $RANDOM.txt
+echo nima > /home/ubuntu/$RANDOM.txt
